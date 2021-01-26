@@ -1,0 +1,49 @@
+<resources>
+    <!-- Login -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="or">or</string>
+    <string name="forgot_password">FORGOT PASSWORD </string>
+    <!-- Login -->
+
+    <!-- Home -->
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title">TITLE</string>
+    <string name="app_name">MyPerson</string>
+
+
+    <!-- Login -->
+    <string name="login_button_login">Login</string>
+    <string name="textview_login">Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <!-- login -->
+
+
+    <!-- ChooseDoorOpen -->
+    <string name="textview_Head_office_seventeen">สำนักงานใหญ่ (ชั้น 17)</string>
+    <string name="textview_Front_door_mobile">ประตูหน้าห้อง Mobile</string>
+    <string name="textview_Head_office_eighteen">สำนักงานใหญ่ (ชั้น 18)</string>
+    <string name="textview_Front_door">ประตูหน้าห้อง</string>
+    <string name="textview_Head_office_nineteen">สำนักงานใหญ่ (ชั้น 19)</string>
+    <string name="textview_Front_door_">ประตูหน้าห้องประชุม 1</string>
+    <string name="textview_Head_office_twenty_three">สำนักงานใหญ่ (ชั้น 23)</string>
+    <string name="title_activity_show_detail">เลือกประตู</string>
+    <string name="textview_login_password">Password</string>
+    <string name="textview_login_email">Email</string>
+    <!-- ChooseDoorOpen -->
+    <string name="Custom">CustomDialogClass</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Success">เปิดประตูเรียบร้อย</string>
+    <string name="ok">OK</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- ShowDetail -->
+    <string name="Opendoor">Open</string>
+    <!-- ShowDetail -->
+</resources>
